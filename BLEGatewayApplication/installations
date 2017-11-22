@@ -1,0 +1,39 @@
+sudo apt-get install libfcgi-dev
+sudo apt-get install spawn-fcgi
+sudo apt-get install nginx
+sudo apt-get install curl
+
+download and compile fastcgi  (check first if already there after apt-get install .... )
+  -> ./configure
+      ./make
+  creates libfcgi.a and libfcgi++.a in usr/lib/
+  link   -lfcgi++ -lfcgi
+
+
+
+
+sudo add-apt-repository ppa:ubuntu-toolchain-r/test
+sudo apt-get update
+sudo apt-get install gcc-5
+sudo update-alternatives --install /usr/bin/gcc gcc /usr/bin/gcc-5 60 --slave /usr/bin/g++ g++ /usr/bin/g++-5
+
+Eclipse:
+project settings -> C/C++ Build -> Build Variables 
+Add  -> Type PATH  
+
+Compiler settings
+g++ -O0 -g3 -Wall -c -fmessage-length=0  -pthread -std=c++11 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+
+Linker
+g++  -o "Threading"  ./main.o   -lpthread
+
+Eclipse
+
+-pthread -std=c++11  add this to C/C++ Build ung General C/C++ Settings
+
+
+
+
+
+
+sudo apt-get install libboost-all-dev

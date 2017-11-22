@@ -1,0 +1,12 @@
+<map id="BLEGateway::BLED112::WriteTCPMsgToSocket" name="BLEGateway::BLED112::WriteTCPMsgToSocket">
+<area shape="rect" id="node2" href="$classBLEGateway_1_1BLED112.html#a98ac697983ab1d7e2972291ff222327b" title="BLEGateway::BLED112\l::BleCmdGapDiscover" alt="" coords="251,5,413,46"/>
+<area shape="rect" id="node3" href="$classBLEGateway_1_1BLED112.html#a5766ac74a385bf4eb66e2f14de5ebefd" title="BLEGateway::BLED112\l::BleCmdGapConnectDirect" alt="" coords="239,70,425,111"/>
+<area shape="rect" id="node4" href="$classBLEGateway_1_1BLED112.html#a0993a0a24f9b3bd7ca50ae960fc4d933" title="BLEGateway::BLED112\l::BleCmdConnectionGetStatus" alt="" coords="231,135,433,177"/>
+<area shape="rect" id="node5" href="$classBLEGateway_1_1BLED112.html#a85577913d3349f18f07098339a395aec" title="BLEGateway::BLED112\l::BleCmdConnectionUpdate" alt="" coords="239,201,425,242"/>
+<area shape="rect" id="node6" href="$classBLEGateway_1_1BLED112.html#a5897436f27be2588792e7f780d968435" title="BLEGateway::BLED112\l::BleCmdConnectionDisconnect" alt="" coords="227,345,437,386"/>
+<area shape="rect" id="node7" href="$classBLEGateway_1_1BLED112.html#a7b430d2dfa7620843ac63fcaa90fde97" title="BLEGateway::BLED112\l::BleCmdGattFindAttributeInfo" alt="" coords="489,374,687,415"/>
+<area shape="rect" id="node8" href="$classBLEGateway_1_1BLED112.html#a2f158ba5042299e699dbeaa84fbd1a44" title="BLEGateway::BLED112\l::BleCmdGattFindPrimaryServices" alt="" coords="737,502,959,543"/>
+<area shape="rect" id="node9" href="$classBLEGateway_1_1BLED112.html#a644a7dec010f8094d874a9266d35061a" title="BLEGateway::BLED112\l::BleCmdGattFindCharacteristics" alt="" coords="225,462,439,503"/>
+<area shape="rect" id="node10" href="$classBLEGateway_1_1BLED112.html#a1a538bee5969e6e00005c196a12d124b" title="BLEGateway::BLED112\l::BleCmdGattReadAttributeBy\lHandle" alt="" coords="233,527,431,583"/>
+<area shape="rect" id="node11" href="$classBLEGateway_1_1BLED112.html#a713693804ee5f58878fa0239aab1bfb0" title="BLEGateway::BLED112\l::BleCmdGattWriteAttribute\lByHandle" alt="" coords="241,265,423,321"/>
+</map>

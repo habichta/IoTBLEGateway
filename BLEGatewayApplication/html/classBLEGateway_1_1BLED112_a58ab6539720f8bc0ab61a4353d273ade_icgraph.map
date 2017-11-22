@@ -1,0 +1,4 @@
+<map id="BLEGateway::BLED112::BleEvtConnectionGetStatus" name="BLEGateway::BLED112::BleEvtConnectionGetStatus">
+<area shape="rect" id="node2" href="$classBLEGateway_1_1BLED112.html#a49241ff473da42041e0f5cdf5db5edba" title="BLEGateway::BLED112\l::DecodeIncomingTCPMessage" alt="" coords="248,5,456,46"/>
+<area shape="rect" id="node3" href="$classBLEGateway_1_1BLED112.html#a3e5d0fe63b5e014c307ab2e9ef968af5" title="BLEGateway::BLED112\l::ProcessTCPMsgFromSocket" alt="" coords="505,5,706,46"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="BLEGateway::AttributeData" name="BLEGateway::AttributeData">
+<area shape="rect" id="node2" href="$structBLEGateway_1_1Uuid.html" title="{BLEGateway::Uuid\n|+ length\l+ addr\l|}" alt="" coords="5,6,139,98"/>
+<area shape="rect" id="node3" href="$structuint8array.html" title="{uint8array\n|+ len\l+ data\l|}" alt="" coords="163,6,241,98"/>
+</map>

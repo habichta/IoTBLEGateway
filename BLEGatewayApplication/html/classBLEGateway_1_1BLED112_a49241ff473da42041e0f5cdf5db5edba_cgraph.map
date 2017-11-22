@@ -1,0 +1,21 @@
+<map id="BLEGateway::BLED112::DecodeIncomingTCPMessage" name="BLEGateway::BLED112::DecodeIncomingTCPMessage">
+<area shape="rect" id="node2" href="$namespaceBLEGateway.html#a81de6db2a8b7f171d2e22b6255555c8f" title="BLEGateway::fprintf" alt="" coords="593,516,733,543"/>
+<area shape="rect" id="node3" href="$classBLEGateway_1_1Device.html#a5d838acccec011de0a7049b9789b7fd6" title="BLEGateway::Device\l::GetClientSocketDesc" alt="" coords="584,166,741,207"/>
+<area shape="rect" id="node4" href="$classBLEGateway_1_1Device.html#a46ecadc3785065d0cf4fc6b044485ab8" title="BLEGateway::Device\l::GetIPv4Address" alt="" coords="589,231,737,273"/>
+<area shape="rect" id="node5" href="$classBLEGateway_1_1Device.html#aca25b898a53d7152a3c5b31dda942a23" title="BLEGateway::Device\l::GetClientPort" alt="" coords="589,297,737,338"/>
+<area shape="rect" id="node6" href="$classBLEGateway_1_1BLED112.html#a45953c012202b3178096575a17252f33" title="BLEGateway::BLED112\l::BleRspSystemGetInfo" alt="" coords="299,166,461,207"/>
+<area shape="rect" id="node7" href="$classBLEGateway_1_1BLED112.html#a29af4fe145f56ada15157a8e890dd300" title="BLEGateway::BLED112\l::BleRspSystemGetMaxConnections" alt="" coords="261,231,499,273"/>
+<area shape="rect" id="node8" href="$classBLEGateway_1_1BLED112.html#ab190dd31c2921db788f76007284c9e7e" title="BLEGateway::BLED112\l::BleRspGapConnectDirect" alt="" coords="289,297,471,338"/>
+<area shape="rect" id="node10" href="$classBLEGateway_1_1BLED112.html#a67be25636efbf81906c48fb7df268e75" title="BLEGateway::BLED112\l::BleEvtGapScanResponse" alt="" coords="289,101,471,142"/>
+<area shape="rect" id="node12" href="$classBLEGateway_1_1BLED112.html#a58ab6539720f8bc0ab61a4353d273ade" title="BLEGateway::BLED112\l::BleEvtConnectionGetStatus" alt="" coords="283,858,477,899"/>
+<area shape="rect" id="node13" href="$classBLEGateway_1_1BLED112Exception.html#a0e8e57a98a80c8773cfdba392021f2a2" title="BLEGateway::BLED112Exception\l::what" alt="" coords="552,887,773,929"/>
+<area shape="rect" id="node14" href="$classBLEGateway_1_1BLED112.html#a9938c9f24c09b640bf9ce0e03c37ece9" title="BLEGateway::BLED112\l::BleEvtConnectionDisconnect" alt="" coords="279,531,481,573"/>
+<area shape="rect" id="node15" href="$classBLEGateway_1_1BLED112.html#abe4df03ef065c1d557a7780909915539" title="BLEGateway::BLED112\l::BleSimpleConnectionResponse" alt="" coords="273,414,487,455"/>
+<area shape="rect" id="node17" href="$classBLEGateway_1_1BLED112.html#a1cb9a79161cbf9e30d5182cf07353f63" title="BLEGateway::BLED112\l::BleEvtGattServiceFound" alt="" coords="293,597,467,638"/>
+<area shape="rect" id="node18" href="$classBLEGateway_1_1BLED112.html#a63950e9ed3b14982468efd80bc5cd503" title="BLEGateway::BLED112\l::BleEvtGattProcedureCompleted" alt="" coords="272,662,488,703"/>
+<area shape="rect" id="node19" href="$classBLEGateway_1_1BLED112.html#a22466c3a3d73dba8b2c9f8468d4c97b7" title="BLEGateway::BLED112\l::BleEvtGattAttributeValue" alt="" coords="292,727,468,769"/>
+<area shape="rect" id="node20" href="$classBLEGateway_1_1BLED112.html#a15bcd4d56609c0cccfc9041f6db7c9fd" title="BLEGateway::BLED112\l::BleEvtGattAttributeInfoFound" alt="" coords="279,793,481,834"/>
+<area shape="rect" id="node9" href="$classBLEGateway_1_1Device.html#ad1f521cae8ad71f3e48297f42028a7fc" title="BLEGateway::Device\l::SetStateMachine" alt="" coords="589,362,737,403"/>
+<area shape="rect" id="node11" href="$classBLEGateway_1_1BLED112.html#a287b30a47f85beee20bdc38ce703420d" title="BLEGateway::BLED112\l::ParseBGAPIAdvertisementPacket" alt="" coords="547,101,778,142"/>
+<area shape="rect" id="node16" href="$classBLEGateway_1_1BLED112.html#ab6795ebe50a72fb264aceca9926b156e" title="BLEGateway::BLED112\l::PostCompletionEvent" alt="" coords="581,427,744,469"/>
+</map>
