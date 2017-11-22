@@ -1,6 +1,0 @@
-<map id="BLEGateway::BLED112::BleRspSystemGetMaxConnections" name="BLEGateway::BLED112::BleRspSystemGetMaxConnections">
-<area shape="rect" id="node2" href="$namespaceBLEGateway.html#a81de6db2a8b7f171d2e22b6255555c8f" title="BLEGateway::fprintf" alt="" coords="299,5,439,32"/>
-<area shape="rect" id="node3" href="$classBLEGateway_1_1Device.html#a5d838acccec011de0a7049b9789b7fd6" title="BLEGateway::Device\l::GetClientSocketDesc" alt="" coords="291,57,448,98"/>
-<area shape="rect" id="node4" href="$classBLEGateway_1_1Device.html#a46ecadc3785065d0cf4fc6b044485ab8" title="BLEGateway::Device\l::GetIPv4Address" alt="" coords="295,122,443,163"/>
-<area shape="rect" id="node5" href="$classBLEGateway_1_1Device.html#aca25b898a53d7152a3c5b31dda942a23" title="BLEGateway::Device\l::GetClientPort" alt="" coords="295,187,443,229"/>
-</map>

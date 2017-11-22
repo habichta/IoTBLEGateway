@@ -1,9 +1,0 @@
-<map id="BLEGateway::BLED112::BleCmdGapDiscover" name="BLEGateway::BLED112::BleCmdGapDiscover">
-<area shape="rect" id="node2" href="$classBLEGateway_1_1Device.html#ad1f521cae8ad71f3e48297f42028a7fc" title="BLEGateway::Device\l::SetStateMachine" alt="" coords="253,5,401,46"/>
-<area shape="rect" id="node3" href="$namespaceBLEGateway.html#a81de6db2a8b7f171d2e22b6255555c8f" title="BLEGateway::fprintf" alt="" coords="494,73,634,100"/>
-<area shape="rect" id="node4" href="$classBLEGateway_1_1Device.html#a5d838acccec011de0a7049b9789b7fd6" title="BLEGateway::Device\l::GetClientSocketDesc" alt="" coords="485,126,643,167"/>
-<area shape="rect" id="node5" href="$classBLEGateway_1_1Device.html#a46ecadc3785065d0cf4fc6b044485ab8" title="BLEGateway::Device\l::GetIPv4Address" alt="" coords="490,195,638,237"/>
-<area shape="rect" id="node6" href="$classBLEGateway_1_1Device.html#aca25b898a53d7152a3c5b31dda942a23" title="BLEGateway::Device\l::GetClientPort" alt="" coords="490,267,638,309"/>
-<area shape="rect" id="node7" href="$classBLEGateway_1_1BLED112.html#a94d59b49444477bcafdaae99c90141ad" title="BLEGateway::BLED112\l::WriteTCPMsgToSocket" alt="" coords="242,173,411,214"/>
-<area shape="rect" id="node8" href="$classBLEGateway_1_1BLED112Exception.html#a0e8e57a98a80c8773cfdba392021f2a2" title="BLEGateway::BLED112Exception\l::what" alt="" coords="216,341,437,382"/>
-</map>

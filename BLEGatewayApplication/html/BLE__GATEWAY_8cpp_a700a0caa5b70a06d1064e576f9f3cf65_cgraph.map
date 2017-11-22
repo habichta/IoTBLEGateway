@@ -1,8 +1,0 @@
-<map id="main" name="main">
-<area shape="rect" id="node2" href="$namespaceBLEGateway.html#ad1fd82d720e9fe18bc720d371feb4813" title="BLEGateway::ServerThread" alt="" coords="105,56,290,83"/>
-<area shape="rect" id="node3" href="$namespaceBLEGateway.html#a81de6db2a8b7f171d2e22b6255555c8f" title="BLEGateway::fprintf" alt="" coords="369,5,509,32"/>
-<area shape="rect" id="node4" href="$namespaceBLEGateway.html#af772143a5fa3b21ddd7cb023ebde8e6e" title="BLEGateway::SessionHandler" alt="" coords="339,56,538,83"/>
-<area shape="rect" id="node7" href="$namespaceBLEGateway.html#a0120bbb4e8920a96b220a3deb46a87fe" title="BLEGateway::close" alt="" coords="369,107,508,133"/>
-<area shape="rect" id="node5" href="$namespaceBLEGateway.html#ad7f2a2e3a740cb45d54043f78c433556" title="BLEGateway::StartExecution" alt="" coords="601,27,794,53"/>
-<area shape="rect" id="node6" href="$classBLEGateway_1_1BLED112Exception.html#a0e8e57a98a80c8773cfdba392021f2a2" title="BLEGateway::BLED112Exception\l::what" alt="" coords="587,78,808,119"/>
-</map>

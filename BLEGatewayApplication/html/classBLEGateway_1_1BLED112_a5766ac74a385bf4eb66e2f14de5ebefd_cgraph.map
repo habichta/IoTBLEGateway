@@ -1,9 +1,0 @@
-<map id="BLEGateway::BLED112::BleCmdGapConnectDirect" name="BLEGateway::BLED112::BleCmdGapConnectDirect">
-<area shape="rect" id="node2" href="$classBLEGateway_1_1Device.html#ad1f521cae8ad71f3e48297f42028a7fc" title="BLEGateway::Device\l::SetStateMachine" alt="" coords="267,5,415,46"/>
-<area shape="rect" id="node3" href="$classBLEGateway_1_1BLED112.html#a14858cd15da75654c8fa5eef453d9500" title="BLEGateway::BLED112\l::CheckConnectionParameters" alt="" coords="241,70,442,111"/>
-<area shape="rect" id="node4" href="$namespaceBLEGateway.html#a81de6db2a8b7f171d2e22b6255555c8f" title="BLEGateway::fprintf" alt="" coords="499,139,639,165"/>
-<area shape="rect" id="node5" href="$classBLEGateway_1_1Device.html#a5d838acccec011de0a7049b9789b7fd6" title="BLEGateway::Device\l::GetClientSocketDesc" alt="" coords="491,191,648,233"/>
-<area shape="rect" id="node6" href="$classBLEGateway_1_1Device.html#a46ecadc3785065d0cf4fc6b044485ab8" title="BLEGateway::Device\l::GetIPv4Address" alt="" coords="495,261,643,302"/>
-<area shape="rect" id="node7" href="$classBLEGateway_1_1Device.html#aca25b898a53d7152a3c5b31dda942a23" title="BLEGateway::Device\l::GetClientPort" alt="" coords="495,333,643,374"/>
-<area shape="rect" id="node8" href="$classBLEGateway_1_1BLED112.html#a94d59b49444477bcafdaae99c90141ad" title="BLEGateway::BLED112\l::WriteTCPMsgToSocket" alt="" coords="257,238,426,279"/>
-</map>

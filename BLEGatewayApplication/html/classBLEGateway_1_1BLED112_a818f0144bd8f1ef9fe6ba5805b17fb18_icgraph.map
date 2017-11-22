@@ -1,6 +1,0 @@
-<map id="BLEGateway::BLED112::SendSimpleCommand" name="BLEGateway::BLED112::SendSimpleCommand">
-<area shape="rect" id="node2" href="$classBLEGateway_1_1BLED112.html#a1e10117dd165669455d5182b2b33b277" title="BLEGateway::BLED112\l::BleCmdSystemGetInfo" alt="" coords="255,5,420,46"/>
-<area shape="rect" id="node4" href="$classBLEGateway_1_1BLED112.html#a3393b181cd6b1a55ee696e73444e0acd" title="BLEGateway::BLED112\l::BleCmdGapEndProcedure" alt="" coords="246,70,429,111"/>
-<area shape="rect" id="node5" href="$classBLEGateway_1_1BLED112.html#a62398efa3fb3ce0cc54c531e4273765a" title="BLEGateway::BLED112\l::BleCmdSystemGetMaxConnections" alt="" coords="217,135,458,177"/>
-<area shape="rect" id="node3" href="$classBLEGateway_1_1BLED112.html#a9a37808f5ae9a8bbf6cd342b502cd988" title="BLEGateway::BLED112\l::BLED112" alt="" coords="507,70,669,111"/>
-</map>
